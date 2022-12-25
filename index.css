@@ -1,0 +1,11 @@
+body{
+    background-image: url("snowflake-background.gif");
+}
+
+.text-blob{
+    background-color: #eeec;
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
