@@ -1,0 +1,217 @@
+{
+    "Standings":{
+        "2019": [
+            "Abdul \"Pump Flex\"",
+            "Brian",
+            "Rachel",
+            "Chris",
+            "Katy"
+        ],
+        "2020": [
+            "Brian", "Luigi", "Mom", "Chris", "Bobby Z", "Rachel", "Katy"
+        ],
+        "2021": [
+            "Rachel"
+        ],
+        "2022": [
+            "Brian",
+            "Rachel",
+            "Katy",
+            "Chris",
+            "Bobby Z",
+            "Mom"
+        ],
+        "2023": [
+            "Brian",
+            "Rachel",
+            "Chris",
+            "Mom",
+            "Pat",
+            "Katy",
+            "Bobby Z"
+        ],
+        "2024": [
+            "Chris",
+            "Brian",
+            "Rachel",
+            "Mom",
+            "Bobby Z"
+        ]
+    },
+
+    "Data": {
+        "2019": {
+            "Abdul \"Pump Flex\"": {
+                "Cuts": [
+                    2.18
+                ]
+            },
+            "Brian": {
+                "Cuts": [
+                    2.22
+                ]
+            },
+            "Rachel": {
+                "Cuts": [
+                    2.39
+                ]
+            },
+            "Chris": {
+                "Cuts": [
+                    2.74
+                ]
+            },
+            "Katy": {
+                "Cuts": [
+                    3.18
+                ]
+            }
+        },
+        "2020": {
+            "Brian": {
+                "Cuts": [
+                    "Unknown"
+                ]
+            },
+            "Luigi": {
+                "Cuts": [
+                    "Unknown"
+                ]
+            },
+            "Mom": {
+                "Cuts": [
+                    "Unknown"
+                ]
+            },
+            "Chris": {
+                "Cuts": [
+                    "Unknown"
+                ]
+            },
+            "Bobby Z": {
+                "Cuts": [
+                    "Unknown"
+                ]
+            },
+            "Rachel": {
+                "Cuts": [
+                    "Unknown"
+                ]
+            },
+            "Katy": {
+                "Cuts": [
+                    "Unknown"
+                ]
+            }
+        },
+        "2021": {
+            "Rachel": {
+                "Cuts": [
+                    "Unknown"
+                ]
+            }
+        },
+        "2022": {
+            "Brian": {
+                "Cuts": [
+                    2.70,
+                    3.18,
+                    3.40
+                ]
+            },
+            "Rachel": {
+                "Cuts": [
+                    5.06,
+                    3.34,
+                    3.30
+                ]
+            },
+            "Katy": {
+                "Cuts": [
+                    4.37,
+                    3.40,
+                    "DQ"
+                ]
+            },
+            "Chris": {
+                "Cuts": [
+                    3.89,
+                    3.45,
+                    3.92
+                ]
+            },
+            "Bobby Z": {
+                "Cuts": [
+                    4.82,
+                    "DQ",
+                    "DQ"
+                ]
+            },
+            "Mom": {
+                "Cuts": [
+                    "DQ",
+                    "DQ",
+                    "DQ"
+                ]
+            }
+        },
+        "2023": {
+            "Brian": {
+                "Cuts": [
+                    "DQ",
+                    2.24,
+                    "?"
+                ]
+            },
+            "Rachel": {
+                "Cuts": [
+                    2.61,
+                    "DQ",
+                    "DQ"
+                ]
+            },
+            "Chris": {
+                "Cuts": [
+                    3.14,
+                    4.72,
+                    4.11
+                ]
+            },
+            "Mom": {
+                "Cuts": [
+                    "DQ",
+                    4.52,
+                    3.23
+                ]
+            },
+            "Pat": {
+                "Cuts": [
+                    4.1,
+                    "DQ",
+                    6.41
+                ]
+            },
+            "Katy": {
+                "Cuts": [
+                    4.96,
+                    5.1,
+                    5.38
+                ]
+            },
+            "Bobby Z": {
+                "Cuts": [
+                    "DQ",
+                    9.1,
+                    "DQ"
+                ]
+            }
+        },
+        "2024": {
+            "Chris": {
+                "Cuts": [
+                    "Unknown"
+                ]
+            }
+        }
+    }
+}
